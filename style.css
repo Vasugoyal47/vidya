@@ -1,0 +1,225 @@
+#title
+{
+  background-color: #97e5ef;
+   color:#fff;
+}
+.head
+{
+  padding-left: 10px;
+  font-size: 1.8rem;
+  color: yellow;
+}
+.container-fluid
+{
+  display: inline-block;
+}
+
+.mainpic
+{
+  width: 5%;
+  border-radius: 2rem;
+  float: left;
+}
+
+
+p
+{
+ text-align: center;
+ font-size: 3rem;
+ color: red;
+ font-family: 'Merriweather', serif;
+ line-height: 1.5;
+}
+#main
+{
+  padding: 8% 7% 7%;
+  background-color: #f0f5f9;
+    padding-bottom: 2%;
+}
+.pic3
+{
+  margin-left: 20%;
+width:90%;
+
+}
+.special
+{
+  font-size: 4rem;
+  color:black;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+
+
+
+#facility
+{
+padding: 8% 3% 3%;
+  background-color:  #97e5ef;
+    padding-bottom: 0;
+}
+.container p
+{
+  text-align:left;
+  font-size: 1.3rem;
+   color:blue;
+   float: right;
+
+   font-family: 'Merriweather', serif;
+}
+.pic5
+{
+  width:90%;
+}
+
+
+
+
+.facility-heading
+{
+  text-align: left;
+  color: blue;
+
+}
+.facility-heading1
+{
+  text-align: left;
+  color: #c9ac6a;
+  padding-bottom: 25px;
+}
+.small-tag
+{
+  font-size: 1.3rem;
+  text-align: left;
+     color:#c9ac6a;
+}
+
+
+
+
+
+
+#pricing
+{
+  padding:8% 15%;
+   padding-top: 4%;
+  text-align: center;
+  background-color: #f0f5f9;
+}
+.content-price
+{
+  font-size: 0.9rem;
+  color: black;
+  text-align: left;
+}
+.price-actual
+{
+  text-align: center;
+  color:red;
+  font-size: 1.9rem;
+}
+.price-head
+{
+  font-size: 2rem;
+  color: blue;
+  text-align: center;
+}
+
+
+#mentor
+{
+  padding:8% 15%;
+  padding-top: 4%;
+
+  background-color: #97e5ef;
+}
+.carousel-item
+{
+  padding:8% 15%;
+  text-align: center;
+}
+.img
+{
+  border-radius: 1rem;
+  width: 20%;
+
+}
+.small
+{
+  margin-right: 20%;
+  color:#f0f5f9;
+  float:right;
+}
+.mentor-head
+{
+  font-size: 2rem;
+  color:black;
+  text-align: center;
+}
+
+.mentor-content
+{
+  text-align: center;
+  color:blue;
+  font-size:0.9rem;
+}
+.mentor-name
+{
+  text-align: center;
+  color:yellow;
+  font-size:1.5rem;
+}
+
+#contact
+{
+
+  padding:8% 15%;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  background-color: #f0f5f9;
+}
+.end-ending
+{
+
+  font-size: 3rem;
+  text-align: center;
+  color:red;
+
+}
+.end-para
+{
+  font-size: 2rem;
+  color:blue;
+  text-align: center;
+}
+.social-icon
+{
+  color:green;
+  margin-right: 10px;
+}
+.social-icon1
+{
+  color: #eb6383;
+    margin-right: 10px;
+}
+.social-icon2
+{
+  color:blue;
+    margin-right: 10px;
+}
+.social-icon3
+{
+  color:red;
+    margin-right: 10px;
+}
+#footer
+{
+  text-align: center;
+  color:yellow;
+  background-color: grey;
+  padding-top: 1rem;
+  padding-bottom:1rem;
+  font-size: 1rem;
+}
